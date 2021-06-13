@@ -4,7 +4,7 @@ I have created an online Piano with help of two modules in python
 2. PyAutoGUI
 
 Basic idea:
-I detect the fingertips using the mediapipe model and based on the location of the fingertip, a key is pressed. This plays the corresponding tone on the piano. I've simulated this in an online platform.
+Detect the fingertips using the mediapipe model and based on the location of the fingertip, a key is pressed. This plays the corresponding tone on the piano. I've simulated this on  an online platform.
 https://www.musicca.com/piano
 Currently, my project works fine with this virtual piano but not with others on the web. I'll try to fix this issue and will soon come up with a solution.
 
