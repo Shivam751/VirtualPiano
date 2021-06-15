@@ -1,5 +1,5 @@
 # VirtualPiano
-I have created an virtual Piano with help of three modules in python
+I have created a virtual Piano with help of three modules in python
 1. openCV
 2. PyAutoGUI
 3. mediapipe
